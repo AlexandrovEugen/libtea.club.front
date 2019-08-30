@@ -1,0 +1,1 @@
+This folder contains components like buttons, checkboxes and so on

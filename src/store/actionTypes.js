@@ -1,0 +1,14 @@
+export const SHOW_TOAST = "SHOW_TOAST";
+export const REGISTER_REQ = "REGISTER_REQ";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_ERROR = "REGISTER_ERROR";
+
+export const LOGIN_REQ = "LOGIN_REQ";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_ERROR = "LOGIN_ERROR";
+
+export const LOAD_USER_INFO_REQ = "LOAD_USER_INFO_REQ";
+export const LOAD_USER_INFO_SUCCESS = "LOAD_USER_INFO_SUCCESS";
+export const LOAD_USER_INFO_ERROR = "LOAD_USER_INFO_ERROR";
+
+export const LOGOUT = "LOGOUT";

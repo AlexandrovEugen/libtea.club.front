@@ -1,0 +1,3 @@
+export const LOAD_USERS_REQ = "LOAD_USERS_REQ";
+export const LOAD_USERS_SUCCESS = "OAD_USERS_SUCCESS";
+export const LOAD_USERS_ERROR = "OAD_USERS_ERROR";

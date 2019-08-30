@@ -1,0 +1,1 @@
+This folder contains components like header, footer and so on
